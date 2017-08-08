@@ -14,7 +14,7 @@ param(
 
 $baseNuspec = Get-Content base.nuspec
 
-foreach($folder in Get-ChildItem Xamarin.Swift3.* -Attributes Directory)
+foreach($folder in Get-ChildItem Xamarin.Swift4.* -Attributes Directory)
 {
     $id = $folder.Name
     

@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.ObjectiveC/lib/xamarinios10/Xamarin.Swift4.ObjectiveC.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.ObjectiveC/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.ObjectiveC/obj/Release/Xamarin.Swift4.ObjectiveC.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.ObjectiveC/obj/Release/Xamarin.Swift4.ObjectiveC.dll

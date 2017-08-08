@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.WatchKit/lib/xamarinios10/Xamarin.Swift4.WatchKit.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.WatchKit/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.WatchKit/obj/Release/Xamarin.Swift4.WatchKit.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.WatchKit/obj/Release/Xamarin.Swift4.WatchKit.dll

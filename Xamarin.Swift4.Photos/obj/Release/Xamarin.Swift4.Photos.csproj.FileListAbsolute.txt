@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Photos/lib/xamarinios10/Xamarin.Swift4.Photos.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Photos/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Photos/obj/Release/Xamarin.Swift4.Photos.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Photos/obj/Release/Xamarin.Swift4.Photos.dll

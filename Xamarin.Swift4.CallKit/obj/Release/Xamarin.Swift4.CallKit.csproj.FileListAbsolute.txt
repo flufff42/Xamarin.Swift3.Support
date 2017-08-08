@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CallKit/lib/xamarinios10/Xamarin.Swift4.CallKit.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CallKit/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CallKit/obj/Release/Xamarin.Swift4.CallKit.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CallKit/obj/Release/Xamarin.Swift4.CallKit.dll

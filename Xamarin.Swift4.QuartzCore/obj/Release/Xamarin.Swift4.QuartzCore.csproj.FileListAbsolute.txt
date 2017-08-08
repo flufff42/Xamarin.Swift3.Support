@@ -1,0 +1,5 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.QuartzCore/lib/xamarinios10/Xamarin.Swift4.QuartzCore.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.QuartzCore/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.QuartzCore/obj/Release/Xamarin.Swift4.QuartzCore.csprojResolveAssemblyReference.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.QuartzCore/obj/Release/Xamarin.Swift4.QuartzCore.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.QuartzCore/obj/Release/Xamarin.Swift4.QuartzCore.dll

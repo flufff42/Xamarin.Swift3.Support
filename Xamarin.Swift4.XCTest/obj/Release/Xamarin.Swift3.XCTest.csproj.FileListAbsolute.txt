@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.XCTest/lib/xamarinios10/Xamarin.Swift4.XCTest.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.XCTest/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.XCTest/obj/Release/Xamarin.Swift4.XCTest.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.XCTest/obj/Release/Xamarin.Swift4.XCTest.dll

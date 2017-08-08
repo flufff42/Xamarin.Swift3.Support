@@ -1,50 +1,50 @@
-# Xamarin.Swift3.Support
+# Xamarin.Swift4.Support
 
 Xamarin doesn't yet provide support for binding Swift libraries. 
-This project is a try to provide all Swift3 runtime/libraries in a organized way. 
+This project is a try to provide all Swift4 runtime/libraries in a organized way. 
 
-Each library dependecy is provided through a NuGet package, all of them will depend on Xamarin.Swift3 package which only include a MSBuild target file for moving the denpendencies when using Simulator and Device. 
+Each library dependecy is provided through a NuGet package, all of them will depend on Xamarin.Swift4 package which only include a MSBuild target file for moving the denpendencies when using Simulator and Device. 
 
 Do not include them all as dependency in your project as it will increase the final App size. Use just what you need.
 
 <h2>List of NuGet packages</h2>
 <h4>Moves runtime files around:</h4>
-https://www.nuget.org/packages/Xamarin.Swift3/
+https://www.nuget.org/packages/Xamarin.Swift4/
 
 <h4>Libraries:</h4>
 
-- https://www.nuget.org/packages/Xamarin.Swift3.AssetsLibrary/
-- https://www.nuget.org/packages/Xamarin.Swift3.AVFoundation/
-- https://www.nuget.org/packages/Xamarin.Swift3.CallKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.CloudKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.Contacts/
-- https://www.nuget.org/packages/Xamarin.Swift3.Core/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreAudio/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreData/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreGraphics/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreImage/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreLocation/
-- https://www.nuget.org/packages/Xamarin.Swift3.CoreMedia/
-- https://www.nuget.org/packages/Xamarin.Swift3.Darwin/
-- https://www.nuget.org/packages/Xamarin.Swift3.Dispatch/
-- https://www.nuget.org/packages/Xamarin.Swift3.Foundation/
-- https://www.nuget.org/packages/Xamarin.Swift3.GameplayKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.GLKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.HomeKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.MapKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.Intents/
-- https://www.nuget.org/packages/Xamarin.Swift3.ObjectiveC/
-- https://www.nuget.org/packages/Xamarin.Swift3.OS/
-- https://www.nuget.org/packages/Xamarin.Swift3.Photos/
-- https://www.nuget.org/packages/Xamarin.Swift3.QuartzCore/
-- https://www.nuget.org/packages/Xamarin.Swift3.RemoteMirror/
-- https://www.nuget.org/packages/Xamarin.Swift3.SceneKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.SIMD/
-- https://www.nuget.org/packages/Xamarin.Swift3.SpriteKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.SwiftOnoneSupport/
-- https://www.nuget.org/packages/Xamarin.Swift3.UIKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.WatchKit/
-- https://www.nuget.org/packages/Xamarin.Swift3.XCTest/
+- https://www.nuget.org/packages/Xamarin.Swift4.AssetsLibrary/
+- https://www.nuget.org/packages/Xamarin.Swift4.AVFoundation/
+- https://www.nuget.org/packages/Xamarin.Swift4.CallKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.CloudKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.Contacts/
+- https://www.nuget.org/packages/Xamarin.Swift4.Core/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreAudio/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreData/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreGraphics/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreImage/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreLocation/
+- https://www.nuget.org/packages/Xamarin.Swift4.CoreMedia/
+- https://www.nuget.org/packages/Xamarin.Swift4.Darwin/
+- https://www.nuget.org/packages/Xamarin.Swift4.Dispatch/
+- https://www.nuget.org/packages/Xamarin.Swift4.Foundation/
+- https://www.nuget.org/packages/Xamarin.Swift4.GameplayKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.GLKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.HomeKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.MapKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.Intents/
+- https://www.nuget.org/packages/Xamarin.Swift4.ObjectiveC/
+- https://www.nuget.org/packages/Xamarin.Swift4.OS/
+- https://www.nuget.org/packages/Xamarin.Swift4.Photos/
+- https://www.nuget.org/packages/Xamarin.Swift4.QuartzCore/
+- https://www.nuget.org/packages/Xamarin.Swift4.RemoteMirror/
+- https://www.nuget.org/packages/Xamarin.Swift4.SceneKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.SIMD/
+- https://www.nuget.org/packages/Xamarin.Swift4.SpriteKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.SwiftOnoneSupport/
+- https://www.nuget.org/packages/Xamarin.Swift4.UIKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.WatchKit/
+- https://www.nuget.org/packages/Xamarin.Swift4.XCTest/
 
 <h2>Walkthrough</h2>
 If you need a full walkthrough on How To Bind Swift Libries, you can find it here: http://stackoverflow.com/documentation/xamarin.ios/6091/binding-swift-libraries

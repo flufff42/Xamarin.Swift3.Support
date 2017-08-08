@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreAudio/lib/xamarinios10/Xamarin.Swift4.CoreAudio.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreAudio/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreAudio/obj/Release/Xamarin.Swift4.CoreAudio.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreAudio/obj/Release/Xamarin.Swift4.CoreAudio.dll

@@ -1,0 +1,5 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Contacts/lib/xamarinios10/Xamarin.Swift4.Contacts.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Contacts/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Contacts/obj/Release/Xamarin.Swift4.Contacts.csprojResolveAssemblyReference.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Contacts/obj/Release/Xamarin.Swift4.Contacts.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.Contacts/obj/Release/Xamarin.Swift4.Contacts.dll

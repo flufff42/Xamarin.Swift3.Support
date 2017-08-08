@@ -1,0 +1,5 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreImage/lib/xamarinios10/Xamarin.Swift4.CoreImage.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreImage/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreImage/obj/Release/Xamarin.Swift4.CoreImage.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreImage/obj/Release/Xamarin.Swift4.CoreImage.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.CoreImage/obj/Release/Xamarin.Swift4.CoreImage.csprojResolveAssemblyReference.cache

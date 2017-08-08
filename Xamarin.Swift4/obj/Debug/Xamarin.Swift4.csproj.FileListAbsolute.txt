@@ -1,0 +1,12 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/lib/xamarinios10/Xamarin.Swift4.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/lib/xamarinios10/Xamarin.Swift4.pdb
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.pdb
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/lib/xamarinios10/Xamarin.Swift4.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/lib/xamarinios10/Xamarin.Swift4.pdb
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.pdb

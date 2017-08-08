@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SceneKit/lib/xamarinios10/Xamarin.Swift4.SceneKit.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SceneKit/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SceneKit/obj/Release/Xamarin.Swift4.SceneKit.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SceneKit/obj/Release/Xamarin.Swift4.SceneKit.dll

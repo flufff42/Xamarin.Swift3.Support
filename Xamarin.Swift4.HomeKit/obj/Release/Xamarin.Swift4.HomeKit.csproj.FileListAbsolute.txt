@@ -1,0 +1,4 @@
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.HomeKit/lib/xamarinios10/Xamarin.Swift4.HomeKit.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.HomeKit/obj/Release/optimized/
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.HomeKit/obj/Release/Xamarin.Swift4.HomeKit.csproj.CoreCompileInputs.cache
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.HomeKit/obj/Release/Xamarin.Swift4.HomeKit.dll
