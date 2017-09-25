@@ -2,3 +2,4 @@
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.RemoteMirror/obj/Release/optimized/
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.RemoteMirror/obj/Release/Xamarin.Swift4.RemoteMirror.csproj.CoreCompileInputs.cache
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.RemoteMirror/obj/Release/Xamarin.Swift4.RemoteMirror.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.RemoteMirror/obj/Release/Xamarin.Swift4.RemoteMirror.csprojResolveAssemblyReference.cache

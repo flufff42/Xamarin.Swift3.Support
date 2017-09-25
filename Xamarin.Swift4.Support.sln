@@ -1,7 +1,7 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.Core", "Xamarin.Swift4.Core\Xamarin.Swift4.Core.csproj", "{1C165FBB-615D-482A-B3F3-71D6C2C9476A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.Metal", "Xamarin.Swift4.Metal\Xamarin.Swift4.Metal.csproj", "{1C165FBB-615D-482A-B3F3-71D6C2C9476A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.Contacts", "Xamarin.Swift4.Contacts\Xamarin.Swift4.Contacts.csproj", "{3A63385A-4F18-4AFF-B8BE-AF01AE030374}"
 EndProject
@@ -16,8 +16,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.ObjectiveC", "Xamarin.Swift4.ObjectiveC\Xamarin.Swift4.ObjectiveC.csproj", "{B5791D37-CB43-49E7-B8BC-0547AB8C3238}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.UIKit", "Xamarin.Swift4.UIKit\Xamarin.Swift4.UIKit.csproj", "{5B507686-6A23-4968-95BA-ADBD94E7DB28}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.CoreFoundation", "Xamarin.Swift4.CoreFoundation\Xamarin.Swift4.CoreFoundation.csproj", "{DA45D9AE-3F74-4518-A0F5-F0237FF9BAA1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.AssetsLibrary", "Xamarin.Swift4.AssetsLibrary\Xamarin.Swift4.AssetsLibrary.csproj", "{1281DC2F-3245-4E48-9324-D7BE9B0EB5D5}"
 EndProject
@@ -59,9 +57,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.SwiftOnoneSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.WatchKit", "Xamarin.Swift4.WatchKit\Xamarin.Swift4.WatchKit.csproj", "{D67B2472-711B-4999-8B21-33CFDE41CAA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.XCTest", "Xamarin.Swift4.XCTest\Xamarin.Swift4.XCTest.csproj", "{8043C5FE-E77B-46E7-B392-FD523B05A2DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.MapKit", "Xamarin.Swift4.MapKit\Xamarin.Swift4.MapKit.csproj", "{1C165FBB-615D-482A-B3F3-71D6C2C9476A}"
 EndProject
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Xamarin.Swift4", "Xamarin.Swift4\Xamarin.Swift4.csproj", "{3ED3517E-69FB-4E16-9F74-BEAAB637CA28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.CoreFoundation", "Xamarin.Swift4.CoreFoundation\Xamarin.Swift4.CoreFoundation.csproj", "{9BF5F352-24F8-4CF4-8BBA-5F8345FB03CD}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Xamarin.Swift4.XCTest", "Xamarin.Swift4.XCTest\Xamarin.Swift4.XCTest.csproj", "{0D890AE6-EBD5-4427-8238-D5CB4115CC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4", "Xamarin.Swift4\Xamarin.Swift4.csproj", "{B837D96F-AA4E-4CA4-8767-8E5A1A2C210E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Swift4.MapKit", "Xamarin.Swift4.MapKit\Xamarin.Swift4.MapKit.csproj", "{1C165FBB-615D-482A-B3F3-71D6C2C9476B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,10 +105,6 @@ Global
 		{5B507686-6A23-4968-95BA-ADBD94E7DB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B507686-6A23-4968-95BA-ADBD94E7DB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B507686-6A23-4968-95BA-ADBD94E7DB28}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA45D9AE-3F74-4518-A0F5-F0237FF9BAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA45D9AE-3F74-4518-A0F5-F0237FF9BAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA45D9AE-3F74-4518-A0F5-F0237FF9BAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA45D9AE-3F74-4518-A0F5-F0237FF9BAA1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1281DC2F-3245-4E48-9324-D7BE9B0EB5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1281DC2F-3245-4E48-9324-D7BE9B0EB5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1281DC2F-3245-4E48-9324-D7BE9B0EB5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -185,13 +185,21 @@ Global
 		{D67B2472-711B-4999-8B21-33CFDE41CAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D67B2472-711B-4999-8B21-33CFDE41CAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D67B2472-711B-4999-8B21-33CFDE41CAA7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8043C5FE-E77B-46E7-B392-FD523B05A2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8043C5FE-E77B-46E7-B392-FD523B05A2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8043C5FE-E77B-46E7-B392-FD523B05A2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8043C5FE-E77B-46E7-B392-FD523B05A2DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3ED3517E-69FB-4E16-9F74-BEAAB637CA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3ED3517E-69FB-4E16-9F74-BEAAB637CA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3ED3517E-69FB-4E16-9F74-BEAAB637CA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3ED3517E-69FB-4E16-9F74-BEAAB637CA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF5F352-24F8-4CF4-8BBA-5F8345FB03CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF5F352-24F8-4CF4-8BBA-5F8345FB03CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF5F352-24F8-4CF4-8BBA-5F8345FB03CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF5F352-24F8-4CF4-8BBA-5F8345FB03CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D890AE6-EBD5-4427-8238-D5CB4115CC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D890AE6-EBD5-4427-8238-D5CB4115CC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D890AE6-EBD5-4427-8238-D5CB4115CC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D890AE6-EBD5-4427-8238-D5CB4115CC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B837D96F-AA4E-4CA4-8767-8E5A1A2C210E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B837D96F-AA4E-4CA4-8767-8E5A1A2C210E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B837D96F-AA4E-4CA4-8767-8E5A1A2C210E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B837D96F-AA4E-4CA4-8767-8E5A1A2C210E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C165FBB-615D-482A-B3F3-71D6C2C9476B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C165FBB-615D-482A-B3F3-71D6C2C9476B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C165FBB-615D-482A-B3F3-71D6C2C9476B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C165FBB-615D-482A-B3F3-71D6C2C9476B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

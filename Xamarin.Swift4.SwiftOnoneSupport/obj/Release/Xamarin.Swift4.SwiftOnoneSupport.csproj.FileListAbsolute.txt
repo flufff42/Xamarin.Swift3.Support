@@ -2,3 +2,4 @@
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SwiftOnoneSupport/obj/Release/optimized/
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SwiftOnoneSupport/obj/Release/Xamarin.Swift4.SwiftOnoneSupport.csproj.CoreCompileInputs.cache
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SwiftOnoneSupport/obj/Release/Xamarin.Swift4.SwiftOnoneSupport.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SwiftOnoneSupport/obj/Release/Xamarin.Swift4.SwiftOnoneSupport.csprojResolveAssemblyReference.cache

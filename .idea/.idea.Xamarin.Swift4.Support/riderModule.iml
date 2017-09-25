@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AssetsLibrary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AVFoundation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CallKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CloudKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Contacts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreAudio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreFoundation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreGraphics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreImage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreLocation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreMedia" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Darwin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Dispatch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GameplayKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GLKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.HomeKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Intents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.MapKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Metal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.ObjectiveC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.OS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Photos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.RemoteMirror" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SceneKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SIMD" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SpriteKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SwiftOnoneSupport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.UIKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.WatchKit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.XCTest/Xamarin.Swift4.XCTest.csproj" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AVFoundation/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AVFoundation/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AssetsLibrary/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.AssetsLibrary/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CallKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CallKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CloudKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CloudKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Contacts/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Contacts/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Core/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Core/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreAudio/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreAudio/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreData/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreData/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreFoundation/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreFoundation/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreGraphics/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreGraphics/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreImage/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreImage/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreLocation/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreLocation/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreMedia/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.CoreMedia/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Darwin/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Darwin/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Dispatch/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Dispatch/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GLKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GLKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GameplayKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.GameplayKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.HomeKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.HomeKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Intents/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Intents/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.MapKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.MapKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Metal/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Metal/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.OS/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.OS/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.ObjectiveC/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.ObjectiveC/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Photos/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.Photos/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.RemoteMirror/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.RemoteMirror/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SIMD/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SIMD/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SceneKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SceneKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SpriteKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SpriteKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SwiftOnoneSupport/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.SwiftOnoneSupport/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.UIKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.UIKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.WatchKit/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4.WatchKit/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4/lib/xamarinios10" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Xamarin.Swift4/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

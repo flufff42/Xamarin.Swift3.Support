@@ -2,3 +2,4 @@
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SIMD/obj/Release/optimized/
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SIMD/obj/Release/Xamarin.Swift4.SIMD.csproj.CoreCompileInputs.cache
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SIMD/obj/Release/Xamarin.Swift4.SIMD.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.SIMD/obj/Release/Xamarin.Swift4.SIMD.csprojResolveAssemblyReference.cache

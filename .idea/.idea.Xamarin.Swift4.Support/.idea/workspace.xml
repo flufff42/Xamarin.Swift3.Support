@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba76e8cd-81bd-4099-8915-62c60d422673" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Swift4.Support/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Swift4.Support/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Swift4.Support/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Xamarin.Swift4.Support/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Frameworks/libswiftAVFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Frameworks/libswiftAVFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/SwiftFrameworksSimulator/libswiftAVFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/SwiftFrameworksSimulator/libswiftAVFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Frameworks/libswiftAssetsLibrary.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Frameworks/libswiftAssetsLibrary.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/SwiftFrameworksSimulator/libswiftAssetsLibrary.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/SwiftFrameworksSimulator/libswiftAssetsLibrary.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Frameworks/libswiftCallKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Frameworks/libswiftCallKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/SwiftFrameworksSimulator/libswiftCallKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/SwiftFrameworksSimulator/libswiftCallKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Frameworks/libswiftCloudKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Frameworks/libswiftCloudKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/SwiftFrameworksSimulator/libswiftCloudKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/SwiftFrameworksSimulator/libswiftCloudKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Frameworks/libswiftContacts.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Frameworks/libswiftContacts.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/SwiftFrameworksSimulator/libswiftContacts.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/SwiftFrameworksSimulator/libswiftContacts.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Core/Frameworks/libswiftCore.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Core/Frameworks/libswiftCore.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Core/SwiftFrameworksSimulator/libswiftCore.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Core/SwiftFrameworksSimulator/libswiftCore.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Core/lib/xamarinios10/Xamarin.Swift4.Core.dll" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Core/lib/xamarinios10/Xamarin.Swift4.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Frameworks/libswiftCoreAudio.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Frameworks/libswiftCoreAudio.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/SwiftFrameworksSimulator/libswiftCoreAudio.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/SwiftFrameworksSimulator/libswiftCoreAudio.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Frameworks/libswiftCoreData.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Frameworks/libswiftCoreData.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/SwiftFrameworksSimulator/libswiftCoreData.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/SwiftFrameworksSimulator/libswiftCoreData.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/Frameworks/libswiftCoreFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/Frameworks/libswiftCoreFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/SwiftFrameworksSimulator/libswiftCoreFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/SwiftFrameworksSimulator/libswiftCoreFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Frameworks/libswiftCoreGraphics.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Frameworks/libswiftCoreGraphics.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/SwiftFrameworksSimulator/libswiftCoreGraphics.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/SwiftFrameworksSimulator/libswiftCoreGraphics.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Frameworks/libswiftCoreImage.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Frameworks/libswiftCoreImage.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/SwiftFrameworksSimulator/libswiftCoreImage.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/SwiftFrameworksSimulator/libswiftCoreImage.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Frameworks/libswiftCoreLocation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Frameworks/libswiftCoreLocation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/SwiftFrameworksSimulator/libswiftCoreLocation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/SwiftFrameworksSimulator/libswiftCoreLocation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Frameworks/libswiftCoreMedia.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Frameworks/libswiftCoreMedia.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/SwiftFrameworksSimulator/libswiftCoreMedia.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/SwiftFrameworksSimulator/libswiftCoreMedia.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Frameworks/libswiftDarwin.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Frameworks/libswiftDarwin.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/SwiftFrameworksSimulator/libswiftDarwin.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/SwiftFrameworksSimulator/libswiftDarwin.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Frameworks/libswiftDispatch.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Frameworks/libswiftDispatch.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/SwiftFrameworksSimulator/libswiftDispatch.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/SwiftFrameworksSimulator/libswiftDispatch.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Frameworks/libswiftFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Frameworks/libswiftFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/SwiftFrameworksSimulator/libswiftFoundation.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/SwiftFrameworksSimulator/libswiftFoundation.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Frameworks/libswiftGLKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Frameworks/libswiftGLKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/SwiftFrameworksSimulator/libswiftGLKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/SwiftFrameworksSimulator/libswiftGLKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Frameworks/libswiftGameplayKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Frameworks/libswiftGameplayKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/SwiftFrameworksSimulator/libswiftGameplayKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/SwiftFrameworksSimulator/libswiftGameplayKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Frameworks/libswiftHomeKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Frameworks/libswiftHomeKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/SwiftFrameworksSimulator/libswiftHomeKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/SwiftFrameworksSimulator/libswiftHomeKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Frameworks/libswiftIntents.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Frameworks/libswiftIntents.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Intents/SwiftFrameworksSimulator/libswiftIntents.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Intents/SwiftFrameworksSimulator/libswiftIntents.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Frameworks/libswiftMapKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Frameworks/libswiftMapKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/SwiftFrameworksSimulator/libswiftMapKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/SwiftFrameworksSimulator/libswiftMapKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.OS/Frameworks/libswiftos.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.OS/Frameworks/libswiftos.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.OS/SwiftFrameworksSimulator/libswiftos.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.OS/SwiftFrameworksSimulator/libswiftos.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Frameworks/libswiftObjectiveC.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Frameworks/libswiftObjectiveC.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/SwiftFrameworksSimulator/libswiftObjectiveC.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/SwiftFrameworksSimulator/libswiftObjectiveC.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Frameworks/libswiftPhotos.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Frameworks/libswiftPhotos.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Photos/SwiftFrameworksSimulator/libswiftPhotos.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Photos/SwiftFrameworksSimulator/libswiftPhotos.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Frameworks/libswiftQuartzCore.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Frameworks/libswiftQuartzCore.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/SwiftFrameworksSimulator/libswiftQuartzCore.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/SwiftFrameworksSimulator/libswiftQuartzCore.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Frameworks/libswiftRemoteMirror.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Frameworks/libswiftRemoteMirror.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/SwiftFrameworksSimulator/libswiftRemoteMirror.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/SwiftFrameworksSimulator/libswiftRemoteMirror.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Frameworks/libswiftsimd.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Frameworks/libswiftsimd.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/SwiftFrameworksSimulator/libswiftsimd.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/SwiftFrameworksSimulator/libswiftsimd.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Frameworks/libswiftSceneKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Frameworks/libswiftSceneKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/SwiftFrameworksSimulator/libswiftSceneKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/SwiftFrameworksSimulator/libswiftSceneKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Frameworks/libswiftSpriteKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Frameworks/libswiftSpriteKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/SwiftFrameworksSimulator/libswiftSpriteKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/SwiftFrameworksSimulator/libswiftSpriteKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Frameworks/libswiftSwiftOnoneSupport.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Frameworks/libswiftSwiftOnoneSupport.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/SwiftFrameworksSimulator/libswiftSwiftOnoneSupport.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/SwiftFrameworksSimulator/libswiftSwiftOnoneSupport.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Frameworks/libswiftUIKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Frameworks/libswiftUIKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/SwiftFrameworksSimulator/libswiftUIKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/SwiftFrameworksSimulator/libswiftUIKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Frameworks/libswiftWatchKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Frameworks/libswiftWatchKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/SwiftFrameworksSimulator/libswiftWatchKit.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/SwiftFrameworksSimulator/libswiftWatchKit.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Frameworks/libswiftXCTest.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Frameworks/libswiftXCTest.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/SwiftFrameworksSimulator/libswiftXCTest.dylib" afterPath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/SwiftFrameworksSimulator/libswiftXCTest.dylib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Xamarin.Swift4/obj/Debug/Xamarin.Swift4.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Xamarin.Swift3.AVFoundation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Xamarin.Swift3.AVFoundation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Xamarin.Swift4.AVFoundation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AVFoundation/Xamarin.Swift4.AVFoundation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Xamarin.Swift3.AssetsLibrary.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Xamarin.Swift3.AssetsLibrary.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Xamarin.Swift4.AssetsLibrary.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.AssetsLibrary/Xamarin.Swift4.AssetsLibrary.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Xamarin.Swift3.CallKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Xamarin.Swift3.CallKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Xamarin.Swift4.CallKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CallKit/Xamarin.Swift4.CallKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Xamarin.Swift3.CloudKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Xamarin.Swift3.CloudKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Xamarin.Swift4.CloudKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CloudKit/Xamarin.Swift4.CloudKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Xamarin.Swift3.Contacts.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Xamarin.Swift3.Contacts.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Xamarin.Swift4.Contacts.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Contacts/Xamarin.Swift4.Contacts.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Core/Xamarin.Swift3.Core.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Core/Xamarin.Swift3.Core.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Core/Xamarin.Swift4.Core.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Core/Xamarin.Swift4.Core.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Xamarin.Swift3.CoreAudio.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Xamarin.Swift3.CoreAudio.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Xamarin.Swift4.CoreAudio.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreAudio/Xamarin.Swift4.CoreAudio.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Xamarin.Swift3.CoreData.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Xamarin.Swift3.CoreData.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Xamarin.Swift4.CoreData.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreData/Xamarin.Swift4.CoreData.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/Xamarin.Swift4.CoreFoundation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreFoundation/Xamarin.Swift4.CoreFoundation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Xamarin.Swift3.CoreGraphics.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Xamarin.Swift3.CoreGraphics.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Xamarin.Swift4.CoreGraphics.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreGraphics/Xamarin.Swift4.CoreGraphics.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Xamarin.Swift3.CoreImage.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Xamarin.Swift3.CoreImage.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Xamarin.Swift4.CoreImage.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreImage/Xamarin.Swift4.CoreImage.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Xamarin.Swift3.CoreLocation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Xamarin.Swift3.CoreLocation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Xamarin.Swift4.CoreLocation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreLocation/Xamarin.Swift4.CoreLocation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Xamarin.Swift3.CoreMedia.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Xamarin.Swift3.CoreMedia.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Xamarin.Swift4.CoreMedia.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.CoreMedia/Xamarin.Swift4.CoreMedia.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Xamarin.Swift3.Darwin.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Xamarin.Swift3.Darwin.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Xamarin.Swift4.Darwin.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Darwin/Xamarin.Swift4.Darwin.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Xamarin.Swift3.Dispatch.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Xamarin.Swift3.Dispatch.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Xamarin.Swift4.Dispatch.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Dispatch/Xamarin.Swift4.Dispatch.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Xamarin.Swift3.Foundation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Xamarin.Swift3.Foundation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Xamarin.Swift4.Foundation.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Foundation/Xamarin.Swift4.Foundation.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Xamarin.Swift3.GLKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Xamarin.Swift3.GLKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Xamarin.Swift4.GLKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GLKit/Xamarin.Swift4.GLKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Xamarin.Swift3.GameplayKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Xamarin.Swift3.GameplayKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Xamarin.Swift4.GameplayKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.GameplayKit/Xamarin.Swift4.GameplayKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Xamarin.Swift3.HomeKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Xamarin.Swift3.HomeKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Xamarin.Swift4.HomeKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.HomeKit/Xamarin.Swift4.HomeKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Xamarin.Swift3.Intents.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Xamarin.Swift3.Intents.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Xamarin.Swift4.Intents.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Intents/Xamarin.Swift4.Intents.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift3.MapKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift3.MapKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift4.MapKit.csproj" afterPath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift4.MapKit.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift4.MapKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.MapKit/Xamarin.Swift4.MapKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.OS/Xamarin.Swift3.OS.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.OS/Xamarin.Swift3.OS.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.OS/Xamarin.Swift4.OS.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.OS/Xamarin.Swift4.OS.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Xamarin.Swift3.ObjectiveC.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Xamarin.Swift3.ObjectiveC.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Xamarin.Swift4.ObjectiveC.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.ObjectiveC/Xamarin.Swift4.ObjectiveC.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Xamarin.Swift3.Photos.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Xamarin.Swift3.Photos.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Xamarin.Swift4.Photos.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Photos/Xamarin.Swift4.Photos.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Xamarin.Swift3.QuartzCore.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Xamarin.Swift3.QuartzCore.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Xamarin.Swift4.QuartzCore.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.QuartzCore/Xamarin.Swift4.QuartzCore.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Xamarin.Swift3.RemoteMirror.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Xamarin.Swift3.RemoteMirror.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Xamarin.Swift4.RemoteMirror.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.RemoteMirror/Xamarin.Swift4.RemoteMirror.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Xamarin.Swift3.SIMD.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Xamarin.Swift3.SIMD.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Xamarin.Swift4.SIMD.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SIMD/Xamarin.Swift4.SIMD.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Xamarin.Swift3.SceneKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Xamarin.Swift3.SceneKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Xamarin.Swift4.SceneKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SceneKit/Xamarin.Swift4.SceneKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Xamarin.Swift3.SpriteKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Xamarin.Swift3.SpriteKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Xamarin.Swift4.SpriteKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SpriteKit/Xamarin.Swift4.SpriteKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Support.sln" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Support.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.Support.userprefs" afterPath="$PROJECT_DIR$/Xamarin.Swift4.Support.userprefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Xamarin.Swift3.SwiftOnoneSupport.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Xamarin.Swift3.SwiftOnoneSupport.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Xamarin.Swift4.SwiftOnoneSupport.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.SwiftOnoneSupport/Xamarin.Swift4.SwiftOnoneSupport.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Xamarin.Swift3.UIKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Xamarin.Swift3.UIKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Xamarin.Swift4.UIKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.UIKit/Xamarin.Swift4.UIKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Xamarin.Swift3.WatchKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Xamarin.Swift3.WatchKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Xamarin.Swift4.WatchKit.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.WatchKit/Xamarin.Swift4.WatchKit.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Xamarin.Swift3.XCTest.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Xamarin.Swift3.XCTest.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Xamarin.Swift4.XCTest.nuspec" afterPath="$PROJECT_DIR$/Xamarin.Swift4.XCTest/Xamarin.Swift4.XCTest.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base.nuspec" afterPath="$PROJECT_DIR$/base.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/copy_new_dylibs.sh" afterPath="$PROJECT_DIR$/copy_new_dylibs.sh" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Xamarin.Swift4.targets" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Swift4/build/Xamarin.Swift4.targets">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Xamarin.Swift4/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1502172340000" expanded="false" signature="6:63" ph="..." />
+                <marker date="1502172340000" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+                <marker date="1502172340000" expanded="true" signature="497:721" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+                <marker date="1502172340000" expanded="true" signature="763:997" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Xamarin.Swift4/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="896" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Metal" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Metal" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Metal" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frameworks" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.GLKit" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4.Support (33 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xamarin.Swift4" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba76e8cd-81bd-4099-8915-62c60d422673" name="Default" comment="" />
+      <created>1506102052529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506102052529</updated>
+      <workItem from="1506102054433" duration="144000" />
+      <workItem from="1506102318082" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="896" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Xamarin.Swift4/build/Xamarin.Swift4.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xamarin.Swift4/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1502172340000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1502172340000" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1502172340000" expanded="true" signature="497:721" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1502172340000" expanded="true" signature="763:997" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Swift4/Properties/AssemblyInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Swift4/build/Xamarin.Swift4.targets">
     <Files>
       <File FileName="Xamarin.Swift4.AssetsLibrary/Properties/AssemblyInfo.cs" Line="1" Column="1" />
       <File FileName="Xamarin.Swift4.QuartzCore/Properties/AssemblyInfo.cs" Line="1" Column="1" />
       <File FileName="Xamarin.Swift4.Core/Properties/AssemblyInfo.cs" Line="8" Column="36" />
       <File FileName="Xamarin.Swift4.Contacts/Properties/AssemblyInfo.cs" Line="13" Column="13" />
       <File FileName="Xamarin.Swift4/Properties/AssemblyInfo.cs" Line="20" Column="36" />
+      <File FileName="Xamarin.Swift4/build/Xamarin.Swift4.targets" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
@@ -16,5 +17,6 @@
   <MultiItemStartupConfigurations />
   <DisabledProjects>
     <String>Xamarin.Swift4.Support/Xamarin.Swift4.csproj</String>
+    <String>Xamarin.Swift4.XCTest/Xamarin.Swift4.XCTest.csproj</String>
   </DisabledProjects>
 </Properties>

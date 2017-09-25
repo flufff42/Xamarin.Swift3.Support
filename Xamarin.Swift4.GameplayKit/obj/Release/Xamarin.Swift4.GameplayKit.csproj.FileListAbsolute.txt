@@ -2,3 +2,4 @@
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.GameplayKit/obj/Release/optimized/
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.GameplayKit/obj/Release/Xamarin.Swift4.GameplayKit.csproj.CoreCompileInputs.cache
 /Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.GameplayKit/obj/Release/Xamarin.Swift4.GameplayKit.dll
+/Users/sean/Documents/Development/Xamarin.Swift4.Support/Xamarin.Swift4.GameplayKit/obj/Release/Xamarin.Swift4.GameplayKit.csprojResolveAssemblyReference.cache
